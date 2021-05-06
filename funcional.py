@@ -1,3 +1,7 @@
+# Pedro Gabriel <pedrogabriel.santos@hotmail.com>
+# 29/04/2021
+#
+# Faz busca direto do arquivo txt e retorna um dicionario match
 import regex
 import re
 import os
